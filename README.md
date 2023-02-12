@@ -6,5 +6,6 @@
 
 IOS-разработчик
 
-## Фото
+## Фото![2023-02-12 22 26 41](https://user-images.githubusercontent.com/123066541/218335208-bb32e573-d1a4-4d7f-8885-3bd4e09f06a4.jpg)
+
 
